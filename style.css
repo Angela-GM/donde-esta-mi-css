@@ -23,10 +23,15 @@ form {
     margin-top:5em;
     height:30em; 
     border-radius:1em;
-    width: 20rem;
+    width: 22rem;
     background: white;
 }
 
+button {
+    background-color: transparent;
+    border-radius: 8px;
+    border: 2px solid hsla(0, 0%, 74%,0.4);
+}
 button, img {
     position: relative;
     height: 3rem;
